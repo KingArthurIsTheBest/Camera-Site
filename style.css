@@ -834,8 +834,30 @@ header {
     color: #000000;    
 }
 .uncluded-nikon-Z5-svg {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 257px;
+    top: 1318px;
 }
 .included-camera-name {
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 267px;
+    top: 1432px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
 }
 .included-Lens {
 }
