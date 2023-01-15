@@ -936,3 +936,21 @@ header {
     
     color: #000000;
 }
+
+.img-block-promo {
+    position: absolute;
+    width: 1280px;
+    height: 380px;
+    left: 80px;
+    top: 1528px;
+    
+    background: #102B26;
+    border-radius: 20px;
+}
+.img-block-extra-promo {
+    position: absolute;
+    width: 1280px;
+    height: 748px;
+    left: 80px;
+    top: 1958px;
+}
