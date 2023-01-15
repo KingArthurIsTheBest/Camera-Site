@@ -885,8 +885,30 @@ header {
     color: #000000;
 }
 .included-cable {
+    position: absolute;
+    width: 88px;
+    height: 88px;
+    left: 743px;
+    top: 1318px;
 }
 .included-cable-text {
+    position: absolute;
+    width: 109px;
+    height: 21px;
+    left: 733px;
+    top: 1432px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
 }
 .included-adobe {
 }
