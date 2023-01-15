@@ -1,0 +1,815 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    width: 1440px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.top-top {
+    width: 286px;
+    height: 21px;
+    left: 577px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+
+}
+
+.logo-top {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 80px;
+    top: 73px;
+
+}
+
+.logo-text-top {
+    position: absolute;
+    width: 39px;
+    height: 33px;
+    left: 109px;
+    top: 50px;
+
+    /* H2 SemiBold| 1.953em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27.3438px;
+    line-height: 33px;
+    /* identical to box height */
+
+
+    color: #000000; 
+}
+
+.header-shop {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 520px;
+    top: 74px;
+
+    text-decoration: none;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+.header-img {
+    position: absolute;
+    width: 10px;
+    height: 7px;
+    left: 564px;
+    top: 81px;
+}
+.header-about {
+    position: absolute;
+    width: 100px;
+    height: 21px;
+    left: 599px;
+    top: 74px;
+
+    text-decoration: none;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+.header-compare {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 720px;
+    top: 74px;
+
+    text-decoration: none;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+.header-FAQs {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 820px;
+    top: 74px;
+
+    text-decoration: none;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+.header-contact {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 900px;
+    top: 74px;
+
+    text-decoration: none;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+.header-hr {
+}
+
+.header-hr {
+    position: absolute;
+    width: 1278px;
+    height: 0px;
+    left: 80px;
+    top: 125px;
+
+    border: 2px solid #000000;
+}
+
+.main-img {
+    position: absolute;
+    width: 522px;
+    height: 540px;
+    left: 187px;
+    top: 174px;
+}
+
+.more-photo-1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 79px;
+    top: 174px;
+}
+.more-photo-2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 79px;
+    top: 304px;
+}
+.more-photo-3 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 79px;
+    top: 414px;
+}
+.more-photo-4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 79px;
+    top: 524px;
+}
+.more-photo-5 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 79px;
+    top: 634px;
+}
+
+.top-photo-line {
+    position: absolute;
+    width: 80px;
+    height: 0px;
+    left: 79px;
+    top: 256px;
+
+    border: 1px solid #000000;
+}
+
+.hr-description-left-1 {
+    position: absolute;
+    width: 522px;
+    height: 0px;
+    left: 187px;
+    top: 734px;
+
+    border: 1px solid #00000080(0, 0, 0, 0.5);
+}
+
+.camera-1-description {
+    position: absolute;
+    width: 109px;
+    height: 26px;
+    left: 187px;
+    top: 740px;
+
+    /* H3 Medium| 1.563em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+.db {
+    position: absolute;
+    width: 521px;
+    height: 132px;
+    left: 187px;
+    top: 785px;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+
+    color: #555555;
+}
+
+.opened {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 685px;
+    top: 760px;
+}
+
+.hr-techSpecs-up {
+    position: absolute;
+    width: 522px;
+    height: 0px;
+    left: 187px;
+    top: 932px;
+
+    border: 1px solid #00000080(118, 105, 105, 0.5);
+}
+.closed-1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 685px;
+    top: 958px;
+}
+.hr-techSpecs-bottom {
+    position: absolute;
+    width: 522px;
+    height: 0px;
+    left: 187px;
+    top: 988px;
+
+    border: 1px solid #00000080(0, 0, 0, 0.5);
+}
+.closed-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 685px;
+    top: 1014px;
+}
+.hr-Shipping-bottom {
+    position: absolute;
+    width: 522px;
+    height: 0px;
+    left: 187px;
+    top: 1044px;
+
+    border: 1px solid #00000080(0, 0, 0, 0.5);
+}
+
+.TechSpaces {
+    position: absolute;
+    width: 109px;
+    height: 26px;
+    left: 187px;
+    top: 933px;
+
+    /* H3 Medium| 1.563em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+.Shippung-Waranty {
+    position: absolute;
+    width: 194px;
+    height: 26px;
+    left: 187px;
+    top: 993px;
+
+    /* H3 Medium| 1.563em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+
+    color: #000000; 
+}
+
+.Promo-Marquee {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 1092px;
+}
+
+.right-top-cameraName {
+    position: absolute;
+    width: 140px;
+    height: 41px;
+    left: 728px;
+    top: 174px;
+
+    /* H1 Bold | 2.441em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34.1797px;
+    line-height: 41px;
+    /* identical to box height */
+}
+.right-top-camera-price {
+    position: absolute;
+    width: 55px;
+    height: 26px;
+    left: 728px;
+    top: 223px;
+
+    /* H3 Medium| 1.563em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+
+    color: #000000;
+}
+.right-top-camera-oldPrice {
+    position: absolute;
+    width: 79px;
+    height: 21px;
+    left: 789px;
+    top: 230px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-decoration-line: line-through;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.right-top-options {
+    position: absolute;
+    width: 58px;
+    height: 21px;
+    left: 728px;
+    top: 269px;
+
+    /* Body | 1.25em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.right-top-Z5 {
+    box-sizing: border-box;
+    border-radius: 1px;
+/* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 109px;
+    height: 37px;
+    left: 728px;
+    top: 318px;
+
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.right-top-42-50-mm {
+    box-sizing: border-box;
+
+/* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 131px;
+    height: 37px;
+    left: 843px;
+    top: 318px;
+
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+.right-top-curently-img {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 731px;
+    top: 375px;
+}
+.right-top-curently-text {
+    position: absolute;
+    width: 204px;
+    height: 16px;
+    left: 756px;
+    top: 363px;
+
+    /* Helper Regular | 1em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+.right-top-chip-img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 728px;
+    top: 410px;
+}
+.right-top-chip-text {
+    position: absolute;
+    width: 86px;
+    height: 17px;
+    left: 757px;
+    top: 400.5px;
+
+    /* Helper Regular | 1em */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.right-top-works-with-img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 728px;
+    top: 443px;    
+}
+.right-top-works-with-text {
+    position: absolute;
+    width: 160px;
+    height: 17px;
+    left: 757px;
+    top: 433.5px;
+    
+    /* Helper Regular | 1em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right-top-megapixels-img {
+    position: absolute;
+    width: 24px;
+    height: 20.57px;
+    left: 728px;
+    top: 478px;
+}
+.right-top-megapixels-text {
+    position: absolute;
+    height: 17px;
+    left: 757px;
+    top: 464.79px;
+    
+    /* Helper Regular | 1em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;    
+}
+.right-top-batery-img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 728px;
+    top: 503.57px;
+}
+.right-top-batery-text {
+    position: absolute;
+    width: 220px;
+    height: 17px;
+    left: 757px;
+    top: 496.07px;
+    
+    /* Helper Regular | 1em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;    
+}
+.right-top-tech-specs {
+    position: absolute;
+    height: 15px;
+    left: 728px;
+    top: 531px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.5px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+.right-top-add-cart {
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 200px;
+    height: 41px;
+    left: 729px;
+    top: 580px;
+    
+    /* CTA */
+    
+    background: #B4E907;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+}
+.right-top-buy-now {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 200px;
+    height: 41px;
+    left: 944px;
+    top: 580px;
+    
+    background: #000000;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+}
+.right-top-hr {
+    position: absolute;
+    width: 630px;
+    height: 0px;
+    left: 728px;
+    top: 646px;
+    
+    border: 1px solid #000000;
+}
+
+.right-top-help-img {
+    position: absolute;
+    height: 24px;
+    left: 728px;
+    top: 689.5px;
+}
+.right-top-help-text {
+    position: absolute;
+    height: 21px;
+    left: 762px;
+    top: 672.5px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right-top-help-contact-text {
+    position: absolute;
+
+    height: 21px;
+    left: 904px;
+    top: 689.5px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.right-top-free-shipping-img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 728px;
+    top: 723px;    
+}
+.right-top-free-shipping-text {
+    position: absolute;
+    width: 179px;
+    height: 21px;
+    left: 762px;
+    top: 706.5px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.right-top-share-img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 728px;
+    top: 755px;
+}
+.right-top-share-text {
+    position: absolute;
+    width: 43px;
+    height: 21px;
+    left: 762px;
+    top: 742.5px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
