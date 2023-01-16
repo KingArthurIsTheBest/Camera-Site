@@ -1004,7 +1004,17 @@ header {
 }
 
 .stars {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
     
+    position: absolute;
+    width: 232px;
+    height: 40px;
+    left: 104px;
+    top: 2962px; 
 }
 
 .dont-basedOn {
