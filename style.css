@@ -956,6 +956,23 @@ header {
 }
 
 .dont-h2 {
+    position: absolute;
+    width: 380px;
+    height: 41px;
+    left: 530px;
+    top: 2766px;
+    
+    /* H1 Bold | 2.441em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34.1797px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #000000;
 }
 .dont-excelent {
 }
