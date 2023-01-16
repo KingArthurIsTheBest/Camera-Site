@@ -1036,6 +1036,22 @@ header {
     color: #000000;
 }
 .dont-number-reviews {
+    position: absolute;
+    width: 240px;
+    height: 22px;
+    left: 123px;
+    top: 3002px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+    
+    text-align: center;
+    
+    color: #000000;
 }
 .dont-star-bottom {
 }
