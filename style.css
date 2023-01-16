@@ -975,6 +975,22 @@ header {
     color: #000000;
 }
 .dont-excelent {
+    position: absolute;
+    width: 240px;
+    height: 26px;
+    left: 100px;
+    top: 2906px;
+
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    text-align: center;
+
+    color: #000000;
 }
 .dont-star-1 {
 }
