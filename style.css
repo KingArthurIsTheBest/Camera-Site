@@ -1061,4 +1061,19 @@ header {
     bottom: 45%;
 }
 .dont-Trustpilot {
+    position: absolute;
+    width: 67px;
+    height: 26px;
+    left: 201.18px;
+    top: 3018px;
+    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    
+    
+    color: #000000;
 }
