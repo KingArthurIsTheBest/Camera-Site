@@ -1054,6 +1054,11 @@ header {
     color: #000000;
 }
 .dont-star-bottom {
+    position: absolute;
+    left: 11.93%;
+    right: 86.31%;
+    top: 3030px;
+    bottom: 45%;
 }
 .dont-Trustpilot {
 }
