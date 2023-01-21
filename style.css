@@ -1133,6 +1133,21 @@ header {
     color: #000000;
 }
 .card-2-summary {
+    position: absolute;
+    width: 240px;
+    height: 26px;
+    left: 400px;
+    top: 2935.5px;
+    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+    
+    
+    color: #000000;
 }
 .card-2-why {
 }
