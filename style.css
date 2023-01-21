@@ -1150,6 +1150,21 @@ header {
     color: #000000;
 }
 .card-2-why {
+    position: absolute;
+    width: 240px;
+    height: 44px;
+    left: 400px;
+    top: 2973.5px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 157% */
+    
+    
+    color: #000000;
 }
 .card-2-worldtraveler {
 }
