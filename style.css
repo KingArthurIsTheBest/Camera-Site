@@ -1116,6 +1116,21 @@ header {
     height: 20px;
 }
 .card-2-time-publishes {
+    position: absolute;
+    width: 58px;
+    height: 26px;
+    left: 582px;
+    top: 2905.5px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 26px;
+    /* identical to box height, or 217% */
+    
+    
+    color: #000000;
 }
 .card-2-summary {
 }
