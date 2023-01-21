@@ -1166,5 +1166,14 @@ header {
     
     color: #000000;
 }
+.card-2-hr{
+    position: absolute;
+    width: 60px;
+    height: 1px;
+    left: 400px;
+    top: 3031.5px;
+    
+    background: #D9D9D9;
+}
 .card-2-worldtraveler {
 }
