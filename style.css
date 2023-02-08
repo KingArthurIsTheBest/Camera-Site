@@ -1665,3 +1665,11 @@ header {
     color: rgba(255, 255, 255, 0.5);
     
 }
+
+.built-for-real-world-img {
+    position: absolute;
+    width: 1450px;
+    height: 385px;
+    left: -11px;
+    top: 3902px;
+}
