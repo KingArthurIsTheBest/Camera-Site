@@ -1419,3 +1419,101 @@ header {
     color: #000000;
     
 }
+
+/* card 5 */
+
+.stars-card-5 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 2px;
+    
+    position: absolute;
+    width: 108px;
+    height: 20px;
+    left: 1312px;
+    top: 2920.5px;
+}
+.dont-star-51 {
+    width: 20px;
+    height: 20px;
+}
+.dont-star-52 {
+    width: 20px;
+    height: 20px;
+}
+.dont-star-53 {
+    width: 20px;
+    height: 20px;
+}
+.dont-star-54 {
+    width: 20px;
+    height: 20px;
+}
+.dont-star-55 {
+    width: 20px;
+    height: 20px;
+}
+
+.card-5-summary {
+    position: absolute;
+    width: 128px;
+    height: 26px;
+    left: 1312px;
+    top: 2935.5px;
+    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+    
+    
+    color: #000000;
+}
+.card-5-why {
+    position: absolute;
+    width: 128px;
+    height: 44px;
+    left: 1312px;
+    top: 2973.5px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 157% */
+    
+    
+    color: #000000;
+}
+.card-5-hr{
+    position: absolute;
+    width: 60px;
+    height: 1px;
+    left: 1312px;
+    top: 3031.5px;
+    
+    background: #D9D9D9;
+}
+.card-5-worldtraveler {
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 1312px;
+    top: 3030.5px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+    
+    
+    color: #000000;
+    
+}
