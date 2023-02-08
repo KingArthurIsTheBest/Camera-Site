@@ -1517,3 +1517,13 @@ header {
     color: #000000;
     
 }
+
+/* cantact-us */
+
+.contact-us {
+    position: absolute;
+    width: 1280px;
+    height: 583px;
+    left: 49px;
+    top: 1600px;
+}
