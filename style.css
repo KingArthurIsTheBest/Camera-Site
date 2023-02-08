@@ -1552,3 +1552,116 @@ header {
     box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.25);
     border-radius: 100px;
 }
+
+
+
+.contact-us-camera {
+    z-index: 2;
+    position: absolute;
+    width: 473px;
+    height: 583px;
+    left: 876px;
+    top: 3259px;
+}
+
+.bacground-contact {
+    z-index: -1;
+    position: absolute;
+    width: 1280px;
+    height: 448px;
+    left: 89px;
+    top: 3404px;
+    
+    background: #102B26;
+    border-radius: 20px;
+}
+
+.contact-us-h2 {
+    position: absolute;
+    width: 510px;
+    height: 82px;
+    left: 177px;
+    top: 3460px;
+    
+    /* H1 Bold | 2.441em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34.1797px;
+    line-height: 41px;
+    
+    color: #ffffff;
+}
+
+
+.contact-us-p {
+    position: absolute;
+    width: 541px;
+    height: 47px;
+    left: 177px;
+    top: 3567px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    
+    color: #FFFFFF;
+}
+
+.contact-us-faces {
+    position: absolute;
+    width: 129px;
+    height: 48.93px;
+    left: 177px;
+    top: 3631.53px;
+}
+
+.contact-us-button {
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 177px;
+    top: 3714px;
+    
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.25);
+    border-radius: 100px;
+}
+
+.contact-us-button-text-asside {
+    position: absolute;
+    width: 213px;
+    height: 17px;
+    left: 320px;
+    top: 3714px;
+    
+    /* Helper Regular | 1em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.5);
+    
+}
