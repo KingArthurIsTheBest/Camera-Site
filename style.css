@@ -1674,3 +1674,111 @@ header {
     top: 3902px;
 }
 
+
+/* you may also like card 1 */
+
+.you-may-also-like-card-1 {
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    left: 79px;
+    top: 4405px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 2px 20px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+.you-may-also-like-card-1-img {
+    position: absolute;
+    width: 250px;
+    height: 203px;
+    left: 104px;
+    top: 4430px;    
+}
+.you-may-also-like-card-1-camera-name {
+
+    position: absolute;
+    width: 256px;
+    height: 26px;
+    left: 104px;
+    top: 4690px;
+    
+    /* H3 Medium| 1.563em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.you-may-also-like-card-1-camera-price {
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 104px;
+    top: 4726px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.6);
+}
+.you-may-also-like-card-1-add-button {
+    z-index: 2;
+    box-sizing: border-box;
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 168px;
+    height: 39px;
+    left: 104px;
+    top: 4780px;
+    
+    color: #FFFFFF;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+}
+.you-may-also-like-card-1-stars {
+    position: absolute;
+    width: 20px;
+    height: 17px;
+    left: 310px;
+    top: 4780px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+.you-may-also-like-card-1-star {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 336px;
+    top: 4792px;    
+}
