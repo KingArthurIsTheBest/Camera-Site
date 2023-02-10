@@ -2229,3 +2229,36 @@ header {
 }
 .you-may-also-like-card-5-star {
 }
+
+/* arrows */
+.arrows {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 1325px;
+    top: 4903px;
+}
+
+/* marque baner */
+
+.Marquee {
+    position: absolute;
+    width: 2000px;
+    height: 115px;
+    left: -19px;
+    top: 4955.17px;
+}
+
+
+/* footer */
+footer {
+    position: absolute;
+    width: 1440px;
+    height: 432px;
+    left: -1px;
+    top: 5101px;
+    
+    background: #102B26;
+}
