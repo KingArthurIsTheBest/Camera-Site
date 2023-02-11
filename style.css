@@ -2369,3 +2369,125 @@ footer {
     
     color: #FFFFFF;
 }
+
+
+/* right block of footer */
+/* right block 1 */
+.footer-right-block-1-left {
+}
+.footer-main-menu {
+    position: absolute;
+    width: 105px;
+    height: 26px;
+    left: 777px;
+    top: 66px;
+    
+    /* H3 Medium| 1.563em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+    
+    color: #FFFFFF;
+}
+.footer-main-menu-shop {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 777px;
+    top: 102px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: rgba(255, 255, 255, 0.6);    
+}
+.footer-main-menu-about-us {
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    left: 777px;
+    top: 133px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+    
+}
+.footer-main-menu-compare {
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 777px;
+    top: 164px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-main-menu-faqs {
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 777px;
+    top: 195px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-main-menu-contact {
+    position: absolute;
+    width: 59px;
+    height: 21px;
+    left: 777px;
+    top: 226px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+    
+}
+
