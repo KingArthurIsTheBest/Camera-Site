@@ -2606,3 +2606,80 @@ footer {
     color: rgba(255, 255, 255, 0.6);
 }
 
+/* right block 3 */
+.footer-right-block-3-left {
+}
+.footer-extra {
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 1302px;
+    top: 66px;
+    
+    /* H3 Medium| 1.563em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+    
+    color: #FFFFFF;
+}
+.footer-extra-careers {
+    position: absolute;
+    width: 58px;
+    height: 21px;
+    left: 1302px;
+    top: 102px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-extra-press {
+    position: absolute;
+    width: 41px;
+    height: 21px;
+    left: 1302px;
+    top: 133px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-extra-story {
+    position: absolute;
+    width: 39px;
+    height: 21px;
+    left: 1302px;
+    top: 164px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
