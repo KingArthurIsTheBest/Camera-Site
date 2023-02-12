@@ -2239,6 +2239,7 @@ header {
     height: 0px;
     left: 1325px;
     top: 4903px;
+    background-color: #ffffff;
 }
 
 /* marque baner */
@@ -2489,5 +2490,119 @@ footer {
     
     color: rgba(255, 255, 255, 0.6);
     
+}
+
+/* right block 2 */
+.footer-additional-info {
+    position: absolute;
+    width: 208px;
+    height: 26px;
+    left: 988px;
+    top: 66px;
+    
+    /* H3 Medium| 1.563em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21.875px;
+    line-height: 26px;
+    
+    color: #FFFFFF;
+}
+.footer-additional-info-search {
+    position: absolute;
+    width: 52px;
+    height: 21px;
+    left: 988px;
+    top: 102px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-additional-info-account {
+    position: absolute;
+    width: 189px;
+    height: 21px;
+    left: 988px;
+    top: 133px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-additional-info-shipping {
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    left: 988px;
+    top: 164px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-additional-info-refund-policy {
+    position: absolute;
+    width: 200px;
+    height: 21px;
+    left: 988px;
+    top: 195px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-additional-info-privacy-policy {
+    position: absolute;
+    width: 201px;
+    height: 21px;
+    left: 988px;
+    top: 226px;
+    
+    /* Body | 1.25em */
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: rgba(255, 255, 255, 0.6);
 }
 
