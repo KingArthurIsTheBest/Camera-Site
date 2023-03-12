@@ -2683,12 +2683,3 @@ footer {
     
     color: rgba(255, 255, 255, 0.6);
 }
-
-/* payment metods */
-.footer-botom-block-payment-metods {
-    position: absolute;
-    width: 278px;
-    height: 24px;
-    left: 1082px;
-    top: 382px;    
-}
